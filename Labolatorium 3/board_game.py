@@ -1,5 +1,4 @@
 import random
-import sys
 
 
 def generate_board():
